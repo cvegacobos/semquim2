@@ -1,4 +1,4 @@
 Aplicación para reconocimiento de dígitos del conjunto Msist ❤️
 
 
-Hechopor Carlos de la Vega
+Hecho por Carlos de la Vega
